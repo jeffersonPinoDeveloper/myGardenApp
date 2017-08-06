@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/923ab1b930b27ab61ee579964227134ed16d47d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86679b087dcbb0a22b9bab8512e06ae5c4798103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/212e13b72a02275cb7d04f9b60707bccfcc1445c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05113b9ba21050334659458928cb953e49fd1949/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/f0a313b786333bf080ca5d80f705ec8e6f7aa00b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f7ce57d3ffacf66ceaa6e12b5de5906048e20dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_a586f2af01988d9452a86362ca7b88e71f53cbde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.0/ba14d8b7789efde5ee150eacb297b7237abca39/logging-interceptor-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ba14d8b7789efde5ee150eacb297b7237abca39">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.0_f4c67956748f788d561876b9f3733a226f70a2f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/0bee8f9176d972de741e4e685944d7489a28cb4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7521355d9e95bac4cff14e1a2f9e672757fe8b8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/d68e0e3486d9b05c0a083e89eefa8359303bb0bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e6a64cfb5a67d577dd6848b750e23c3b995d6fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd222dc652d416f58aaac4e36119e4e3351598a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/df9ec5e653ef7d3241ff6d5dfa60597596dcec73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5a192da165c4e7b50f27d8a41cdb7518387bb6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_4747b89f62b5da939b67cf64ce24b188deafee71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/1d54bbe934b4246afc118b08d08c563230d40ea6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20beea3f54dbe00bee4cea5f3f886da3c321b6a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_56c7b73e668b1d4e757947bec930415e4ab61c4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_f1373c1661987cee5f0f62083f12246fe77d971b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/226f425a84da34ce9efe8fe424224e147f4a1e06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90eacbfbc9ca444bbb72c12874fedd57b15839ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="365adb74b96f6f58c50aa49c5522d95d8c10f180">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d9c217bc10d1b97d868808301cd227c395fa68e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/6e70ec4869d105724f6d557aecc478cf33a2c785/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b77852fc54888e1d7a4b72cd02e68c6ee7f59ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.android/build-cache/3a61d3ad3f209bdc4e7332c95eda0a0f018e6c47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe3d1c53f229decd388d46f9ad7b97f6984d15cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_ee1e588b78f4a15b120f3c046e1fb8fd6121245c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0551111c86a470ab6a165cfec6ae095b8318cbed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffersonpino/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/jeffersonpino/Documents/developer/freelancer/@androidModel/basic_architecture/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_0a7138779aac0d6e73656e4e45f0c7d1b9735c97/classes.dex" />
+    </item>
+
+</items>

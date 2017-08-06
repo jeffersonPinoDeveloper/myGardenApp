@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">base</string>
+
+    <string name="field_required">Es requerido</string>
+    <string name="email_bad">El correo debe tener el formato alguien@ejemplo.com.</string>
+    <string name="dont_uses_invalid_chars">No utilice \" \' \\ / [ ] { }</string>
+
+</resources>
